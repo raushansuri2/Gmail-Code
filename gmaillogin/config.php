@@ -11,9 +11,9 @@ define('DB_NAME', 'gmails');
 define('DB_USER_TBL', 'users');
 
 // Google API configuration
-define('GOOGLE_CLIENT_ID', '665542324880-kuhvfh4otmbl7f8i9suj8klq9c87p943.apps.googleusercontent.com');
-define('GOOGLE_CLIENT_SECRET', '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');
-define('GOOGLE_REDIRECT_URL', 'https://quizzlive.com');
+define('GOOGLE_CLIENT_ID', '');
+define('GOOGLE_CLIENT_SECRET', '');
+define('GOOGLE_REDIRECT_URL', '');
 
 // Start session
 if(!session_id()){
